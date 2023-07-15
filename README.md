@@ -5,7 +5,7 @@ pkg install git
 
 cd 
 
-rm -rf Galirus TOOLSV3
+rm -rf Galirus a README READMETO READMETOO READMETOOO TOOLSV3
 
 git clone https://github.com/Galirus404/Galirus
 
