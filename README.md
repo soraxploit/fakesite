@@ -1,14 +1,14 @@
-# Galirus
+# Soraxploit
 pkg update && pkg upgrade -y
 
 pkg install git
 
 cd 
 
-rm -rf Galirus a README READMETO READMETOO READMETOOO TOOLSV3
+rm -rf Soraxploit a README READMETO READMETOO READMETOOO TOOLSV3
 
-git clone https://github.com/Galirus404/Galirus
+git clone https://github.com/fake/Soraxploit
 
-cd Galirus
+cd soraxploit
 
 bash install.sh
